@@ -12,3 +12,4 @@ I'm a software engineer who is passionate about all things tech. Some technologi
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Fire_Base-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
