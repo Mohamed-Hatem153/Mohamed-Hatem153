@@ -13,3 +13,5 @@ I'm a software engineer who is passionate about all things tech. Some technologi
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+</br></br>
+CV : https://drive.google.com/file/d/1mDVMZIf9yJ_eGf1oZmTiTctqxaad9Po8/view?usp=sharing
