@@ -10,8 +10,9 @@
   
 I'm a software engineer who is passionate about all things tech. Some technologies I enjoy working with include Javascript, ReactJS, Next.js and GraphQl.</br></br>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-graph-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 </br></br>
 CV : https://drive.google.com/file/d/1Ou61myDhR6WmvXbumNBrmTnUuk3J1JZP/view?usp=sharing
