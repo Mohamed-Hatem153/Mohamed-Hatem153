@@ -14,4 +14,4 @@ I'm a software engineer who is passionate about all things tech. Some technologi
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-graph-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 </br></br>
-CV : https://drive.google.com/file/d/1mDVMZIf9yJ_eGf1oZmTiTctqxaad9Po8/view?usp=sharing
+CV : https://drive.google.com/file/d/1Ou61myDhR6WmvXbumNBrmTnUuk3J1JZP/view?usp=sharing
