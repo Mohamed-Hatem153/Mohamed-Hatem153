@@ -8,7 +8,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
   
-I'm a software engineer who is passionate about all things tech. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.</br></br>
+I'm a software engineer who is passionate about all things tech. Some technologies I enjoy working with include Javascript, ReactJS, Next.js and GraphQl.</br></br>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
