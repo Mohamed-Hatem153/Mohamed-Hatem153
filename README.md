@@ -10,8 +10,8 @@
   
 I'm a software engineer who is passionate about all things tech. Some technologies I enjoy working with include Javascript, Vue.Js, Pinia, and Tailwindcss.</br></br>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=pinia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 </br></br>
