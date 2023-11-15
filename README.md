@@ -13,6 +13,6 @@ I'm a software engineer who is passionate about all things tech. Some technologi
 ![](https://img.shields.io/badge/Code-vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-pinia-informational?style=flat&logo=pinia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
 </br></br>
 CV: https://drive.google.com/file/d/1Ou61myDhR6WmvXbumNBrmTnUuk3J1JZP/view?usp=drive_link
