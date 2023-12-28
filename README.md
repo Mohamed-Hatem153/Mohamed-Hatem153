@@ -15,4 +15,4 @@ I'm a software engineer who is passionate about all things tech. Some technologi
 ![](https://img.shields.io/badge/Code-Pinia-informational?style=flat&logo=pinia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tailwindcss-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
 </br></br>
-CV: https://drive.google.com/file/d/1Ou61myDhR6WmvXbumNBrmTnUuk3J1JZP/view?usp=drive_link
+CV: https://drive.google.com/file/d/1vnWhCDNbdLP_RDbhm2OuStdvNWh5CrRZ/view?usp=sharing
